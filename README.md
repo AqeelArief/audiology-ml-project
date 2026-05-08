@@ -32,4 +32,4 @@ Results will be added after model training and evaluation.
 3. Run the notebook or Python script.
 
 ## Citation
-UCI Machine Learning Repository. Audiology (Standardized) dataset. [link]
+UCI Machine Learning Repository. Audiology (Standardized) dataset. Audiology (Original) [Dataset]. (1987). UCI Machine Learning Repository. https://doi.org/10.24432/C5M59M.
