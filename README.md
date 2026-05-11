@@ -4,7 +4,7 @@
 This project compares several machine-learning models on the UCI Audiology (Standardized) dataset to examine how well they classify hearing-loss severity. The goal is to identify which model performs best on audiology data and whether simpler or more flexible methods are more effective for this task.
 
 ## Research Question
-how effectively do current adaptive machine-learning models personalize hearing-aid performance for individuals with severe to profound hearing loss?
+How effectively do current adaptive machine-learning models personalize hearing-aid performance for individuals with severe to profound hearing loss?
 ## Dataset
 This project uses the UCI Audiology (Standardized) dataset. The dataset contains audiology-related features and diagnostic class labels. For this project, the data will be filtered to focus on severe to profound hearing-loss cases.
 
