@@ -1,0 +1,29 @@
+Accuracy: 0.7307692307692307
+
+Confusion matrix:
+[[11  0  0  0  0  0  0  0  0]
+ [ 3  1  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  1  3  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  1  0  0  0  0]
+ [ 0  0  0  0  0  0  2  2  0]
+ [ 0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  2]]
+
+Classification report:
+                             precision    recall  f1-score   support
+
+               cochlear_age       0.79      1.00      0.88        11
+     cochlear_age_and_noise       1.00      0.25      0.40         4
+cochlear_noise_and_heredity       0.00      0.00      0.00         0
+        cochlear_poss_noise       1.00      0.75      0.86         4
+   conductive_discontinuity       0.00      0.00      0.00         0
+mixed_cochlear_age_fixation       0.00      0.00      0.00         1
+mixed_cochlear_unk_fixation       1.00      0.50      0.67         4
+  mixed_cochlear_unk_ser_om       0.00      0.00      0.00         0
+                 normal_ear       1.00      1.00      1.00         2
+
+                   accuracy                           0.73        26
+                  macro avg       0.53      0.39      0.42        26
+               weighted avg       0.87      0.73      0.75        26
